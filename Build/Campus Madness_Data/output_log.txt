@@ -1,0 +1,114 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Dropbox\Concordia\Fall 2016\COMP 376\Project\Builds\CM - Final Build\Campus Madness_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.487340 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.206434 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 17718.
+Total: 4.608121 ms (FindLiveObjects: 0.582818 ms CreateObjectMapping: 0.190333 ms MarkObjects: 1.547547 ms  DeleteObjects: 2.286489 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: c10 -> priority: 1 
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+[1] Boots
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[1] Buckler
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[1] Sabre
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Increasing level to 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.129712 ms
+
+Unloading 1166 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 6.244615 ms (FindLiveObjects: 0.051626 ms CreateObjectMapping: 0.043540 ms MarkObjects: 0.231074 ms  DeleteObjects: 5.918063 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.463393 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 17719.
+Total: 4.827689 ms (FindLiveObjects: 0.659013 ms CreateObjectMapping: 0.195931 ms MarkObjects: 1.733526 ms  DeleteObjects: 2.238283 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 432)
+
+Increasing level to 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
